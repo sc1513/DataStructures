@@ -26,6 +26,6 @@ If we were to continue removing books from the top of the stack which book would
 |MATH_______|
 
 Common Usages of a Stack:
-We use stacks when we want to get elements in the reverse order than we put them in. One example that we use in every day lif is the back button. When we are on the internet and we want to load the
+We use stacks when we want to get elements in the reverse order than we put them in. One example that we use in every day life is the back button. When we are on the internet and we want to load the
 previous page we use the back button. Once the back button is pressed the page that we were on previously is loaded to the browser. If we press the back button mulitple times we continue to move to the
 previous page. Another example is the undo button. Whenever we use a text editor we use the undo button to reverse actions that have been made to the document.
